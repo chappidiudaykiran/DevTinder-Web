@@ -31,7 +31,7 @@ const Login = () => {
                 value={emailid}
                 onChange={(e) => setEmailid(e.target.value)}
                 className="input"
-                placeholder="Type here"
+                placeholder="Type hhere"
               />
             </fieldset>
           </div>
