@@ -11,7 +11,7 @@ const Login = () => {
       });
       console.log(response.data);
     } catch (error) {
-      console.error("Error:", error);
+      console.error("Error:  ", error);
     }
   };
   const handleSubmit = (e) => {
